@@ -1,214 +1,221 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.2)  8 JAN 2024 00:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.11)  26 DEC 2024 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**calendar.tex
-(./calendar.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21>
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+**./calendar.tex
+(calendar.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/clock/clock.sty
+) (C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/clock\clock.sty
 Package: clock 2001/04/10 v0.1 TeXclock
 
-(/usr/share/texlive/texmf-dist/tex/latex/clock/clock.tex
-\time@in@minutes=\count193
-\floor@minutes=\count194
-\hour@minutes=\count195
-\text@hours=\count196
-\text@minutes=\count197
-\my@minute=\count198
-\my@minutes=\count199
-\my@hour=\count266
-\ClockStyle=\count267
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/clock\clock.tex
+\time@in@minutes=\count195
+\floor@minutes=\count196
+\hour@minutes=\count197
+\text@hours=\count198
+\text@minutes=\count199
+\my@minute=\count266
+\my@minutes=\count267
+\my@hour=\count268
+\ClockStyle=\count269
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/ifsym/ifsym.sty
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/fonts/ifsym\ifsym.sty
 Package: ifsym 2000/04/18 I.Kloeckl
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count268
-\calc@Bcount=\count269
-\calc@Adimen=\dimen139
-\calc@Bdimen=\dimen140
-\calc@Askip=\skip49
-\calc@Bskip=\skip50
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count270
+\calc@Bcount=\count271
+\calc@Adimen=\dimen141
+\calc@Bdimen=\dimen142
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count270
-\calc@Cskip=\skip51
+\calc@Ccount=\count272
+\calc@Cskip=\skip52
 )
-\c@ifsymcnt=\count271
-) (./calendar.sty
+\c@ifsymcnt=\count273
+)
+(calendar.sty
 Package: calendar 2018/09/19LaTeX2e class file `calendar' v3.2
 
 'calendar' style 3.22018/09/19.
 Created by Evan Sultanik
 ****** Bugs/comments/suggestions/technicalities to Evan Sultanik -- evan@sultan
 ik.com ******
-(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen141
-\ar@mcellbox=\box50
-\extrarowheight=\dimen142
-\NC@list=\toks16
-\extratabsurround=\skip52
-\backup@length=\skip53
-\ar@cellbox=\box51
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box51
+\extrarowheight=\dimen144
+\NC@list=\toks17
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box52
 )
-\TX@col@width=\dimen143
-\TX@old@table=\dimen144
-\TX@old@col=\dimen145
-\TX@target=\dimen146
-\TX@delta=\dimen147
-\TX@cols=\count272
-\TX@ftn=\toks17
+\TX@col@width=\dimen145
+\TX@old@table=\dimen146
+\TX@old@col=\dimen147
+\TX@target=\dimen148
+\TX@delta=\dimen149
+\TX@cols=\count274
+\TX@ftn=\toks18
 )
-\@currentdaynum=\count273
-\c@calendardate=\count274
-\StartingDayNumber=\count275
+\@currentdaynum=\count275
+\c@calendardate=\count276
+\StartingDayNumber=\count277
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen148
-\Gin@req@width=\dimen149
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
 )
-(/usr/share/texlive/texmf-dist/tex/latex/marvosym/marvosym.sty
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/marvosym\marvosym.sty
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count276
-\Gm@cntv=\count277
-\c@Gm@tempcnt=\count278
-\Gm@bindingoffset=\dimen150
-\Gm@wd@mp=\dimen151
-\Gm@odd@mp=\dimen152
-\Gm@even@mp=\dimen153
-\Gm@layoutwidth=\dimen154
-\Gm@layoutheight=\dimen155
-\Gm@layouthoffset=\dimen156
-\Gm@layoutvoffset=\dimen157
-\Gm@dimlist=\toks19
-)
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/palatino.sty
+\Gm@cnth=\count278
+\Gm@cntv=\count279
+\c@Gm@tempcnt=\count280
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks20
+
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\palatino.sty
 Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-3.
+2.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
-\l__pdf_internal_box=\box52
-)
-(./calendar.aux)
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count281
+\l__pdf_internal_box=\box53
+) (calendar.aux)
 \openout1 = `calendar.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/clock/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/clock/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen158
-\scratchbox=\box53
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen159
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks21
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\scratchcounter=\count282
+\scratchdimen=\dimen160
+\scratchbox=\box54
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen161
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -247,140 +254,137 @@ e
 <../images/enero.jpg, id=1, 788.28502pt x 594.7821pt>
 File: ../images/enero.jpg Graphic file (type jpg)
 <use ../images/enero.jpg>
-Package pdftex.def Info: ../images/enero.jpg  used on input line 22.
+Package pdftex.def Info: ../images/enero.jpg  used on input line 21.
 (pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
-\@calendarwidth=\dimen160
-\@currday=\count286
-\@numdays=\count287
-(/usr/share/texlive/texmf-dist/tex/latex/marvosym/umvs.fd) [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../images/enero.jpg>]
-<../images/febrero.png, id=10, 788.28502pt x 594.7821pt>
-File: ../images/febrero.png Graphic file (type png)
-<use ../images/febrero.png>
-Package pdftex.def Info: ../images/febrero.png  used on input line 74.
-(pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
-\@calendarwidth=\dimen161
+\@calendarwidth=\dimen162
 \@currday=\count288
 \@numdays=\count289
-<../images/marzo.png, id=12, 788.28502pt x 594.7821pt>
-File: ../images/marzo.png Graphic file (type png)
-<use ../images/marzo.png>
-Package pdftex.def Info: ../images/marzo.png  used on input line 124.
+(C:\Users\Andrés\AppData\Local\Programs\MiKTeX\tex/latex/marvosym\umvs.fd)
+[1
+
+{C:/Users/Andrés/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/An
+drés/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <../images/ene
+ro.jpg>]
+<../images/febrero.jpg, id=9, 788.28502pt x 594.7821pt>
+File: ../images/febrero.jpg Graphic file (type jpg)
+<use ../images/febrero.jpg>
+Package pdftex.def Info: ../images/febrero.jpg  used on input line 74.
 (pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
- [2 <../images/febrero.png>]
-\@calendarwidth=\dimen162
+\@calendarwidth=\dimen163
 \@currday=\count290
 \@numdays=\count291
-<../images/abril.png, id=17, 788.28502pt x 594.7821pt>
-File: ../images/abril.png Graphic file (type png)
-<use ../images/abril.png>
-Package pdftex.def Info: ../images/abril.png  used on input line 174.
-(pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
- [3 <../images/marzo.png>]
-\@calendarwidth=\dimen163
+<../images/marzo.jpg, id=10, 788.28502pt x 497.9403pt>
+File: ../images/marzo.jpg Graphic file (type jpg)
+<use ../images/marzo.jpg>
+Package pdftex.def Info: ../images/marzo.jpg  used on input line 124.
+(pdftex.def)             Requested size: 788.16281pt x 497.92389pt.
+ [2 <../images/febrero.jpg>]
+\@calendarwidth=\dimen164
 \@currday=\count292
 \@numdays=\count293
-<../images/mayo.png, id=23, 788.28502pt x 594.7821pt>
-File: ../images/mayo.png Graphic file (type png)
-<use ../images/mayo.png>
-Package pdftex.def Info: ../images/mayo.png  used on input line 224.
+<../images/abril.jpg, id=14, 788.28502pt x 594.7821pt>
+File: ../images/abril.jpg Graphic file (type jpg)
+<use ../images/abril.jpg>
+Package pdftex.def Info: ../images/abril.jpg  used on input line 181.
 (pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
- [4 <../images/abril.png>]
-\@calendarwidth=\dimen164
+ [3 <../images/marzo.jpg>]
+\@calendarwidth=\dimen165
 \@currday=\count294
 \@numdays=\count295
-<../images/junio.png, id=28, 788.28502pt x 594.7821pt>
-File: ../images/junio.png Graphic file (type png)
-<use ../images/junio.png>
-Package pdftex.def Info: ../images/junio.png  used on input line 274.
+<../images/mayo.jpg, id=19, 788.28502pt x 594.7821pt>
+File: ../images/mayo.jpg Graphic file (type jpg)
+<use ../images/mayo.jpg>
+Package pdftex.def Info: ../images/mayo.jpg  used on input line 231.
 (pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
- [5 <../images/mayo.png>]
-\@calendarwidth=\dimen165
+ [4 <../images/abril.jpg>]
+\@calendarwidth=\dimen166
 \@currday=\count296
 \@numdays=\count297
-<../images/julio.png, id=33, 788.28502pt x 594.7821pt>
-File: ../images/julio.png Graphic file (type png)
-<use ../images/julio.png>
-Package pdftex.def Info: ../images/julio.png  used on input line 324.
+<../images/junio.jpg, id=23, 788.28502pt x 594.7821pt>
+File: ../images/junio.jpg Graphic file (type jpg)
+<use ../images/junio.jpg>
+Package pdftex.def Info: ../images/junio.jpg  used on input line 281.
 (pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
- [6 <../images/junio.png>]
-\@calendarwidth=\dimen166
+ [5 <../images/mayo.jpg>]
+\@calendarwidth=\dimen167
 \@currday=\count298
 \@numdays=\count299
- [7 <../images/julio.png>]
-<../images/agosto.png, id=43, 788.28502pt x 594.7821pt>
-File: ../images/agosto.png Graphic file (type png)
-<use ../images/agosto.png>
-Package pdftex.def Info: ../images/agosto.png  used on input line 376.
+<../images/julio.jpg, id=27, 788.28502pt x 594.7821pt>
+File: ../images/julio.jpg Graphic file (type jpg)
+<use ../images/julio.jpg>
+Package pdftex.def Info: ../images/julio.jpg  used on input line 331.
 (pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
-\@calendarwidth=\dimen167
+ [6 <../images/junio.jpg>]
+\@calendarwidth=\dimen168
 \@currday=\count300
 \@numdays=\count301
-<../images/septiembre.png, id=44, 788.28502pt x 594.7821pt>
-File: ../images/septiembre.png Graphic file (type png)
-<use ../images/septiembre.png>
-Package pdftex.def Info: ../images/septiembre.png  used on input line 426.
+ [7 <../images/julio.jpg>]
+<../images/agosto.jpg, id=35, 788.28502pt x 594.7821pt>
+File: ../images/agosto.jpg Graphic file (type jpg)
+<use ../images/agosto.jpg>
+Package pdftex.def Info: ../images/agosto.jpg  used on input line 383.
 (pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
- [8 <../images/agosto.png>]
-\@calendarwidth=\dimen168
+\@calendarwidth=\dimen169
 \@currday=\count302
 \@numdays=\count303
-<../images/octubre.png, id=49, 788.28502pt x 594.7821pt>
-File: ../images/octubre.png Graphic file (type png)
-<use ../images/octubre.png>
-Package pdftex.def Info: ../images/octubre.png  used on input line 477.
+<../images/septiembre.jpg, id=36, 788.28502pt x 594.7821pt>
+File: ../images/septiembre.jpg Graphic file (type jpg)
+<use ../images/septiembre.jpg>
+Package pdftex.def Info: ../images/septiembre.jpg  used on input line 433.
 (pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
- [9 <../images/septiembre.png>]
-\@calendarwidth=\dimen169
+ [8 <../images/agosto.jpg>]
+\@calendarwidth=\dimen170
 \@currday=\count304
 \@numdays=\count305
- [10 <../images/octubre.png>]
-<../images/noviembre.png, id=58, 788.28502pt x 594.7821pt>
-File: ../images/noviembre.png Graphic file (type png)
-<use ../images/noviembre.png>
-Package pdftex.def Info: ../images/noviembre.png  used on input line 529.
+<../images/octubre.jpg, id=40, 788.28502pt x 594.7821pt>
+File: ../images/octubre.jpg Graphic file (type jpg)
+<use ../images/octubre.jpg>
+Package pdftex.def Info: ../images/octubre.jpg  used on input line 483.
 (pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
-\@calendarwidth=\dimen170
+ [9 <../images/septiembre.jpg>]
+\@calendarwidth=\dimen171
 \@currday=\count306
 \@numdays=\count307
-<../images/diciembre.jpg, id=59, 788.28502pt x 594.7821pt>
-File: ../images/diciembre.jpg Graphic file (type jpg)
-<use ../images/diciembre.jpg>
-Package pdftex.def Info: ../images/diciembre.jpg  used on input line 579.
+ [10 <../images/octubre.jpg>]
+<../images/noviembre.jpg, id=47, 788.28502pt x 594.7821pt>
+File: ../images/noviembre.jpg Graphic file (type jpg)
+<use ../images/noviembre.jpg>
+Package pdftex.def Info: ../images/noviembre.jpg  used on input line 535.
 (pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
- [11 <../images/noviembre.png>]
-\@calendarwidth=\dimen171
+\@calendarwidth=\dimen172
 \@currday=\count308
 \@numdays=\count309
-<../images/enero2.jpg, id=64, 788.28502pt x 594.7821pt>
-File: ../images/enero2.jpg Graphic file (type jpg)
-<use ../images/enero2.jpg>
-Package pdftex.def Info: ../images/enero2.jpg  used on input line 630.
+ [11 <../images/noviembre.jpg>]
+<../images/diciembre.jpg, id=51, 788.28502pt x 594.7821pt>
+File: ../images/diciembre.jpg Graphic file (type jpg)
+<use ../images/diciembre.jpg>
+Package pdftex.def Info: ../images/diciembre.jpg  used on input line 587.
 (pdftex.def)             Requested size: 788.14136pt x 594.6899pt.
- [12 <../images/diciembre.jpg>]
-\@calendarwidth=\dimen172
+\@calendarwidth=\dimen173
 \@currday=\count310
 \@numdays=\count311
- [13 <../images/enero2.jpg>]
-(./calendar.aux) ) 
+ [12 <../images/diciembre.jpg>] (calendar.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 3354 strings out of 480204
- 51095 string characters out of 5895011
- 367588 words of memory out of 5000000
- 21272 multiletter control sequences out of 15000+600000
- 476042 words of font info for 41 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 55i,11n,62p,211b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/andres/.texlive2021/texmf-var/fonts/pk/ljfour/public/
-clock/clock.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
-usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on calendar.pdf (13 pages, 282665322 bytes).
+ 3364 strings out of 474486
+ 53366 string characters out of 5742810
+ 1952542 words of memory out of 5000000
+ 25627 multiletter control sequences out of 15000+600000
+ 564852 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,71p,212b,341s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Andrés\AppData\Local\MiKTeX\fonts/pk/ljfour/public/clock/dpi600\c
+lock.pk><C:/Users/Andrés/AppData/Local/Programs/MiKTeX/fonts/type1/public/marv
+osym/marvosym.pfb><C:/Users/Andrés/AppData/Local/Programs/MiKTeX/fonts/type1/u
+rw/palatino/uplr8a.pfb><C:/Users/Andrés/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/urw/palatino/uplri8a.pfb>
+Output written on calendar.pdf (12 pages, 36548956 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 77 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

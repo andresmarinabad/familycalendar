@@ -1,14 +1,16 @@
-hora +1 -> 31/03
-hora -1 -> 27/10
+hora +1 -> 30/03
+hora -1 -> 26/10
+
 primavera -> 20/03
 invierno -> 21/12
 otoño -> 22/09
-verano -> 20/06
-domingo ramos -> 24/12
-pascua -> 31/03
-cuaresma -> 14/02
-adviento -> 1/12
-pentecostes -> 19/05
+verano -> 21/06
+
+domingo ramos -> 13/04
+pascua -> 20/04
+cuaresma -> 5/03
+adviento -> 30/11
+pentecostes -> 8/06
 
 
 epifanía rojo
@@ -18,13 +20,4 @@ inmaculada cyan
 constitucion negro
 trabajo azul
 jueves santo rojo 
-viernes santo rojo 
-tiempo ordiranio verde
-
-
-cada domingo semana del salterio en su color liturgico
-
-marc sebastian
-nuria vilellas
-
-
+viernes santo rojo

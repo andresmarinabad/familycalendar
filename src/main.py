@@ -1,4 +1,4 @@
-YEAR = 2024
+YEAR = 2025
 
 from datetime import datetime
 import os
@@ -577,53 +577,6 @@ if __name__ == '__main__':
 
         # END CALENDAR
         c.write("\end{document}")
-
-    # ENERO
-    uno_enero = datetime.strptime(f'0101{YEAR+1}', "%d%m%Y").date()
-    fechas_enero = {}
-    extract_from_csv('../data/enero.csv', fechas_enero)
-
-    with open('../build/calendar.tex', 'a', encoding='utf-8') as c:
-        for line in header:
-            c.write(line)
-
-        c.write("\n")
-        c.write("\\begin{figure*}[t!]\n")
-        c.write("\\begin{center}\n")
-        c.write("\includegraphics[width=\linewidth]{example-image}\n")
-        c.write("\end{center}\n")
-        c.write("\end{figure*}\n")
-
-        c.write("\\begin{center}\n")
-        c.write("\\textsc{\LARGE Enero}\\ % Month\n")
-        c.write("\\textsc{\LARGE " + f"{YEAR+1}" + "} % Year\n")
-        c.write("\end{center}\n\n")
-
-        c.write("\\begin{calendar}{\\textwidth}\n")
-
-        dia_semana = uno_enero.weekday()
-        counter = (dia_semana - 1) * (-1)
-        c.write("\setcounter{calendardate}{" + f"{counter}" + "}\n")
-        to_write = "\BlankDay\n"
-        for day in range(0, 42):
-            counter += 1
-            if dia_semana == day:
-                if day >= 31:
-                    to_write = "\BlankDay\n"
-                    dia_semana = 100
-                else:
-                    dia_semana = dia_semana + 31
-                    to_write = "\day{}{\\vspace{2cm}}\n"
-
-            if counter - 1 in fechas_enero:
-                c.write("\day{}{\\vspace{1.5cm}" + fechas_enero[
-                    counter - 1] + "}\n")
-                continue
-
-            c.write(to_write)
-
-        c.write("\\finishCalendar\n")
-        c.write("\end{calendar}\n")
 
 
     # COMPILE
